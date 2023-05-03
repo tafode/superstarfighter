@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Superstarfighter\n"
-"POT-Creation-Date: 2019-07-04 15:40+0200\n"
-"PO-Revision-Date: 2023-04-30 00:12+0200\n"
+"POT-Creation-Date: 2023-05-03 22:59+0200\n"
+"PO-Revision-Date: 2023-05-03 23:22+0200\n"
 "Last-Translator: Urtzi Odriozola Lizaso <urtzi.odriozola@gmail.com>\n"
 "Language-Team: \n"
 "Language: eu\n"
@@ -86,6 +86,18 @@ msgstr "J3"
 
 msgid "P4"
 msgstr "J4"
+
+msgid "p1"
+msgstr ""
+
+msgid "p2"
+msgstr ""
+
+msgid "p3"
+msgstr ""
+
+msgid "p4"
+msgstr ""
 
 msgid "player1"
 msgstr "j1"
@@ -360,6 +372,13 @@ msgid "keep the banner on your side"
 msgstr ""
 
 msgid "find diamonds, avoid mines"
+msgstr ""
+
+# Various fixes
+msgid "show arena"
+msgstr ""
+
+msgid "GAME PAUSED"
 msgstr ""
 
 #, fuzzy

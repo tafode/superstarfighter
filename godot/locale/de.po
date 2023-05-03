@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Superstarfighter\n"
-"POT-Creation-Date: 2019-07-04 15:40+0200\n"
-"PO-Revision-Date: 2023-04-30 00:11+0200\n"
+"POT-Creation-Date: 2023-05-03 22:59+0200\n"
+"PO-Revision-Date: 2023-05-03 23:09+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_CH\n"
@@ -85,6 +85,18 @@ msgstr "S3"
 
 msgid "P4"
 msgstr "S4"
+
+msgid "p1"
+msgstr "s1"
+
+msgid "p2"
+msgstr "s2"
+
+msgid "p3"
+msgstr "s3"
+
+msgid "p4"
+msgstr "s4"
 
 msgid "player1"
 msgstr "SPIELER1"
@@ -346,6 +358,16 @@ msgstr "halte das banner auf deiner seite"
 
 msgid "find diamonds, avoid mines"
 msgstr "finde diamanten, vermeide minen"
+
+# Various fixes
+msgid "show arena"
+msgstr "zeige Arena"
+
+msgid "GAME PAUSED"
+msgstr "SPIEL PAUSIERT"
+
+#~ msgid "game paused"
+#~ msgstr "Spiel pausiert"
 
 #~ msgid "HOLD THE BUTTON TO CONTINUE"
 #~ msgstr "HALTE DEN KNIOPF GEDRÜCKT UM FORTZUFAHREN"
